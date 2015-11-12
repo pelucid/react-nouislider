@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/algolia/react-nouislider",
   "dependencies": {
-    "nouislider": "algolia/noUiSlider#fad95f6340990748c2b4d2abbc6ec84bc00eea2f"
+    "nouislider": "algolia/noUiSlider#64ad8aed5d538e78d89949c2c91250ad576a142a"
   },
   "devDependencies": {
     "babel": "5.8.23",
